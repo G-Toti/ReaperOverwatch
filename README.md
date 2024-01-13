@@ -1,7 +1,39 @@
-# ReaperOverwatch
+<h1>Reaper Overwatch</h1>
 Repositório com um arquivo Readme sobre o personagem de Overwatch, Reaper.
 
 <h1><img src="https://static.wikia.nocookie.net/overwatch/images/c/cd/Unlockables_placement.gif/revision/latest?cb=20160906232251"></h1>
+
+<h2>Índice</h2>
+
+<ul>
+
+<li>
+    <a href="#armasEHabilidades">
+        <h2>Armas e Habilidades</h2>
+    </a>
+</li>
+<li>
+    <a href="#historia">
+        <h2>História</h2>
+    </a>        
+</li>
+<li>
+    <a href="#características">
+        <h2>Características</h2>
+    </a>
+</li>
+<li>
+    <a href="#colaboradores">
+        <h2>Colaboradores</h2>
+    </a>
+</li>
+<li>
+    <a href="#agradecimentos">
+        <h2>Agradecimentos</h2>
+    </a>
+</li>
+
+<ul>
 
 <section id="armasEHabilidades">
 <h2>🗡 Armas e Habilidades</h2>
@@ -84,9 +116,9 @@ Reyes mais tarde conquistou uma posição cobiçada no Governo, controversa e co
 
 <img src="https://ik.imagekit.io/7aacdxvef/Captura%20de%20tela%202024-01-13%20163432.png?updatedAt=1705175357540">
 
-Graças ao seu treinamento militar, Gabriel Reyes agor apelo codnome Reaper tem um "sexto sentido" para o perigo. Devido a experimentos realizados pela Dra. Moira O'Deorain, as células do Reaper decaem e regeneram simultaneamente em uma taxa hiperacelerada. O processo foi descrito como "limpeza molecular", onde ele é "apagado pedaço por pedaço". Em um momento ele pode aparecer como carne e sangue, no próximo, como uma nuvem de fumaça negra — desarticulado, mas ainda no controle de suas moléculas. 
+Graças ao seu treinamento militar, Gabriel Reyes agor apelo codnome Reaper tem um "sexto sentido" para o perigo. Devido a experimentos realizados pela Dra. Moira O'Deorain, as células do Reaper decaem e regeneram simultaneamente em uma taxa hiperacelerada. O processo foi descrito como "limpeza molecular", onde ele é "apagado pedaço por pedaço". Em um momento ele pode aparecer como carne e sangue, no próximo, como uma nuvem de fumaça negra — desarticulado, mas ainda no controle de suas moléculas.
 
-Mesmo após a destruição completa de seu corpo, Reaper foi observado como sendo uma "névoa negra" e, em seguida, é capaz de recuperar a forma física em um momento posterior. 
+Mesmo após a destruição completa de seu corpo, Reaper foi observado como sendo uma "névoa negra" e, em seguida, é capaz de recuperar a forma física em um momento posterior.
 
 <img src="https://ik.imagekit.io/7aacdxvef/HD-wallpaper-reaper-overwatch-game.jpg?updatedAt=1705175885398">
 
@@ -96,9 +128,7 @@ Como Gabriel Reyes, ele tinha um senso de honra que sua persona posterior consid
 
 </section>
 
-
 <section id="características">
-<section id="forças">
 
 <h2>Características</h2>
 
@@ -114,9 +144,7 @@ muito relevantes nos combates principais nas partidas. Unindo esses
 fatores com sua relativa facilidade de uso, ele se torna um personagem
 excepcional inclusive para novos jogadores.
 </p>
-</section>
 
-<section id="fraquezas">
 <h3>Fraquezas</h3>
 
 <p>
@@ -130,5 +158,46 @@ stun ou barreiras e seus ataques só são realmente eficientes em curtas
 distâncias.
 </p>
 </section>
+
+<section id="colaboradores">
+<h2>🎆 PARABÉNS AOS COLABORADORES <h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/Bonnaj">
+          <img src="https://avatars.githubusercontent.com/u/127909992?v=4" width="110" />
+          <br/>
+          <b>João Bona</b>
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/G-Toti">
+          <img src="https://avatars.githubusercontent.com/u/156110093?v=4" width="110" />
+          <br/>
+          <b>Gabriel Toti</b>
+        </a>
+      </td> 
+    </tr>
+  </tbody>
+</table>
+
+<img src="https://static.wikia.nocookie.net/overwatch/images/b/b2/Reaper_slowclap.gif/revision/latest?cb=20160729051637">
 </section>
 
+<section id="agradecimentos">
+<h2>😁 AGRADECIMENTO ESPECIAL<h2>
+
+<p align="center">
+<a href="https://www.instagram.com/bolutions/">
+    <img src="https://scontent.fsjk2-1.fna.fbcdn.net/v/t39.30808-6/294672904_439262191544417_5261997857415746854_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeHp63AJWZS7uHk3QrB98oZdFN6Z7f-gRi8U3pnt_6BGL5sFJcjd6Pexb7rxttKmiojwF32YBR9EFWvxrWnc-16h&_nc_ohc=ynp-lQkFS9kAX-ViJMP&_nc_ht=scontent.fsjk2-1.fna&oh=00_AfAnWxgmhc6401fCfbI8UUi4S0ZwBjT-rw-vgL4nEIEJLw&oe=65A713DD" width="300">
+    </a>
+</p>
+
+<br/>
+
+<p align="center">
+    <img src="https://usagif.com/wp-content/uploads/gif/obr1gdo-26.gif" width="500">
+</p>
+</section>
