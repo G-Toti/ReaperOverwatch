@@ -1,6 +1,8 @@
 # ReaperOverwatch
 Repositório com um arquivo Readme sobre o personagem de Overwatch, Reaper.
 
+<h1><img src="https://static.wikia.nocookie.net/overwatch/images/c/cd/Unlockables_placement.gif/revision/latest?cb=20160906232251"></h1>
+
 <section id="armasEHabilidades">
 <h2>🗡 Armas e Habilidades</h2>
 
@@ -68,6 +70,8 @@ ele causa dano a um adversário.
 
 <h3> Pré Crise: </h3>
 
+<img src="https://ik.imagekit.io/7aacdxvef/e27b405b2552791b11c72865c5ac121f.jpg?updatedAt=1705175775084" width="250px">
+
 Gabriel Reyes nasceu em Los Angeles, Califórnia. A família Reyes vivia em LA há gerações. Sua mãe era assistente social e seu pai tinha sua própria loja de conveniência. Gabriel era inteligente e atlético, e para seu futuro decidiu ingressar na aplicação da lei após se formar na faculdade mais cedo com um diploma em criminologia.
 
 Em toda a sua carreira Reyes passou de policial, detetive, e militar.
@@ -75,6 +79,21 @@ Em toda a sua carreira Reyes passou de policial, detetive, e militar.
 Já no Exército dos Estados Unidos, cerca de nove anos antes do surto da Crise Ômnica. Reyes se saiu bem e ficou conhecido como um MUSTANG, subindo de posto até obter a posição de oficial sênior. Ele ajudou a derrubar vários regimes autoritários, mas assistiu com desalento enquanto mega-corporações assumiam o controle e repetiam os mesmos abusos apenas com outro dono no lugar. Vez após vez, Reyes viu os inocentes sofrerem enquanto as elites escapavam da acusação.
 
 Reyes mais tarde conquistou uma posição cobiçada no Governo, controversa e confidencial (mas amplamente reconhecido) Programa de Aprimoramento de Soldados. Cientistas militares moldaram Reyes e outros recrutas em soldados perfeitos, aprimorados com velocidade, força e agilidade sobre-humanas. Durante o programa de aprimoramento de soldados, Reyes era conhecido como Soldado 24.
+
+<h3> Após a Crise: </h3>
+
+<img src="https://ik.imagekit.io/7aacdxvef/Captura%20de%20tela%202024-01-13%20163432.png?updatedAt=1705175357540">
+
+Graças ao seu treinamento militar, Gabriel Reyes agor apelo codnome Reaper tem um "sexto sentido" para o perigo. Devido a experimentos realizados pela Dra. Moira O'Deorain, as células do Reaper decaem e regeneram simultaneamente em uma taxa hiperacelerada. O processo foi descrito como "limpeza molecular", onde ele é "apagado pedaço por pedaço". Em um momento ele pode aparecer como carne e sangue, no próximo, como uma nuvem de fumaça negra — desarticulado, mas ainda no controle de suas moléculas. 
+
+Mesmo após a destruição completa de seu corpo, Reaper foi observado como sendo uma "névoa negra" e, em seguida, é capaz de recuperar a forma física em um momento posterior. 
+
+<img src="https://ik.imagekit.io/7aacdxvef/HD-wallpaper-reaper-overwatch-game.jpg?updatedAt=1705175885398">
+
+Ele descreveu viver nessa condição como uma forma de agonia constante, embora seja apenas através dos experimentos de O'Deorain que ele consegue se manter vivo. Devido a esses mesmos tratamentos, Reaper acha difícil controlar sua raiva. Ele é sádico, mas inteligente, com um aguçado senso de observação e tem talento para coleta de informações. E assim como as sombras ele preofere atuar por baixo dos panos.
+
+Como Gabriel Reyes, ele tinha um senso de honra que sua persona posterior considerou antiquado. Como Reaper, Reyes acredita em um CÓDIGO DE VIOLÊNCIA, que, em sua visão, é o único código que o mundo respeita. Com esse fim, ele está disposto a trabalhar com a Talon, acreditando na visão de Doomfist para uma nova ordem mundial.
+
 </section>
 
 
@@ -98,7 +117,7 @@ excepcional inclusive para novos jogadores.
 </section>
 
 <section id="fraquezas">
-<h3>Forças</h3>
+<h3>Fraquezas</h3>
 
 <p>
 Apesar de suas qualidades, o personagem também possui fraquezas, sendo
