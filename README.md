@@ -130,9 +130,9 @@ Como Gabriel Reyes, ele tinha um senso de honra que sua persona posterior consid
 
 <section id="características">
 
-<h2>Características</h2>
+<h2>📊 Características</h2>
 
-<h3>Forças</h3>
+<h3>💪Forças</h3>
 
 <p>
 O Reaper é um dos personagens mais fortes do jogo com grandes
@@ -145,7 +145,7 @@ fatores com sua relativa facilidade de uso, ele se torna um personagem
 excepcional inclusive para novos jogadores.
 </p>
 
-<h3>Fraquezas</h3>
+<h3>😰 Fraquezas</h3>
 
 <p>
 Apesar de suas qualidades, o personagem também possui fraquezas, sendo
@@ -157,6 +157,48 @@ muito poderosos, Ultimate pode ser facilmente counterada por ataques de
 stun ou barreiras e seus ataques só são realmente eficientes em curtas
 distâncias.
 </p>
+</section>
+
+<section id="roupas">
+<h2> 👗 Reaper Fashion <h2>
+
+<p> 😒 3º Lugar </p>
+
+<p align="center">
+    <img src="https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2f/Reaper_Skin_Chained_King.png/revision/latest?cb=20231217182851" width="500">
+    </a>
+</p>
+
+<p align="center"> CHAINED KING</p>
+
+<p> 🙂 2º Lugar </p>
+
+<p align="center">
+    <img src="https://static.wikia.nocookie.net/overwatch_gamepedia/images/8/82/Reaper_Skin_El_Blanco.png/revision/latest?cb=20160916151320" width="500">
+    </a>
+</p>
+
+<p align="center"> EL BLANCO</p>
+
+<p> 🤩 1º Lugar </p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=NmJNSlN_OB4">
+    <img src="https://static.wikia.nocookie.net/overwatch_gamepedia/images/6/6d/Reaper_Skin_Pumpkin.png/revision/latest?cb=20221219073100" width="500">
+    </a>
+</p>
+
+<p align="center"> PUMPIKIN</p>
+
+<p> 🤢 PIOR DE TODAS </p>
+
+<p align="center">
+<a href="https://www.youtube.com/shorts/7hblsoSAdQ0?feature=share">
+    <img src="https://static.wikia.nocookie.net/overwatch_gamepedia/images/2/2c/Reaper_Skin_Luchador.png/revision/latest?cb=20230322152347" width="500">
+    </a>
+</p>
+
+<p align="center"> COLEÇÃO LUCHADOR</p>
 </section>
 
 <section id="colaboradores">
@@ -201,3 +243,5 @@ distâncias.
     <img src="https://usagif.com/wp-content/uploads/gif/obr1gdo-26.gif" width="500">
 </p>
 </section>
+
+
