@@ -5,7 +5,6 @@ Repositório com um arquivo Readme sobre o personagem de Overwatch, Reaper.
 
 <h2>Índice</h2>
 
-
 <ul>
 
 <li>
@@ -226,7 +225,7 @@ distâncias.
   </tbody>
 </table>
 
-<img src="https://static.wikia.nocookie.net/overwatch/images/b/b2/Reaper_slowclap.gif/revision/latest?cb=20160729051637" width="500">
+<img src="https://media3.giphy.com/media/nrS2GlLdkNps2ZSVdp/200w.gif?cid=6c09b952f1btyb81wf7clqtavx77ahfnmfwf8kxu6261twu1&ep=v1_gifs_search&rid=200w.gif&ct=g" width="500">
 </section>
 
 <section id="agradecimentos">
