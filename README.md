@@ -80,6 +80,9 @@ Reyes mais tarde conquistou uma posição cobiçada no Governo, controversa e co
 
 <section id="características">
 <section id="forças">
+
+<h2>Características</h2>
+
 <h3>Forças</h3>
 
 <p>
@@ -94,7 +97,7 @@ excepcional inclusive para novos jogadores.
 </p>
 </section>
 
-<section id="fraquezas"></section>
+<section id="fraquezas">
 <h3>Forças</h3>
 
 <p>
@@ -107,5 +110,6 @@ muito poderosos, Ultimate pode ser facilmente counterada por ataques de
 stun ou barreiras e seus ataques só são realmente eficientes em curtas
 distâncias.
 </p>
+</section>
 </section>
 
