@@ -8,29 +8,19 @@ Repositório com um arquivo Readme sobre o personagem de Overwatch, Reaper.
 <ul>
 
 <li>
-    <a href="#armasEHabilidades">
-        <h2>Armas e Habilidades</h2>
-    </a>
+    <h2><a href="#armasEHabilidades">Armas e Habilidades</a></h2>
 </li>
 <li>
-    <a href="#historia">
-        <h2>História</h2>
-    </a>        
+    <h2><a href="#historia">História</a></h2>      
 </li>
 <li>
-    <a href="#características">
-        <h2>Características</h2>
-    </a>
+    <h2><a href="#características">Características</a></h2>
 </li>
 <li>
-    <a href="#colaboradores">
-        <h2>Colaboradores</h2>
-    </a>
+    <h2><a href="#colaboradores">Colaboradores</a></h2>
 </li>
 <li>
-    <a href="#agradecimentos">
-        <h2>Agradecimentos</h2>
-    </a>
+    <h2><a href="#agradecimentos">Agradecimentos</a></h2>
 </li>
 
 <ul>
@@ -243,5 +233,3 @@ distâncias.
     <img src="https://usagif.com/wp-content/uploads/gif/obr1gdo-26.gif" width="500">
 </p>
 </section>
-
-
